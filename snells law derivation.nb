@@ -1,0 +1,60 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.3' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1770,         52]
+NotebookOptionsPosition[      1393,         37]
+NotebookOutlinePosition[      1792,         53]
+CellTagsIndexPosition[      1749,         50]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"NotebookEvaluate", "[", 
+   RowBox[{"FileNameJoin", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"NotebookDirectory", "[", "]"}], ",", "\"\<velocity tools\>\"", 
+      ",", "\"\<init.nb\>\""}], "}"}], "]"}], "]"}], ";"}]], "Input",
+ InitializationCell->True,
+ CellChangeTimes->{{3.8299980715276704`*^9, 3.8299980715296264`*^9}, {
+   3.82999822632197*^9, 3.8299982338078775`*^9}, {3.8299996756509085`*^9, 
+   3.8299997331512084`*^9}, {3.8436512526709843`*^9, 3.843651255171874*^9}, {
+   3.843651833071619*^9, 3.843651834530229*^9}, {3.8436533763396044`*^9, 
+   3.8436533851254377`*^9}, 3.8436534165851917`*^9, {3.843653704608134*^9, 
+   3.8436537079052534`*^9}, {3.8536579986833935`*^9, 3.8536580021201196`*^9}},
+ CellLabel->"In[4]:=",ExpressionUUID->"903a7f09-2c37-43bf-a822-1262a02c874b"]
+},
+WindowSize->{573, 645},
+WindowMargins->{{665, Automatic}, {Automatic, 173}},
+FrontEndVersion->"12.3 for Microsoft Windows (64-bit) (July 9, 2021)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"a5a1798a-25f7-475d-ad98-043b2c714e98"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 831, 15, 86, "Input",ExpressionUUID->"903a7f09-2c37-43bf-a822-1262a02c874b",
+ InitializationCell->True]
+}
+]
+*)
+
